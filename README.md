@@ -105,14 +105,14 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 </p>
 
 <br>
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshi-112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://raw.githubusercontent.com/harshi-112/harshi-112/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
-###
+
 
 <h2 align="center">✨ Developer Quote</h2>
 
@@ -120,7 +120,7 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="developer quote" />
 </div>
 
-###
+
 
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
