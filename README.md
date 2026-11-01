@@ -67,9 +67,16 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshi-112&show_icons=true&theme=dracula&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-112&layout=compact&theme=dracula&hide_border=true" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=harshi-112&show_icons=true&theme=dracula&hide_border=true&hide_rank=false"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshi-112&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 <br>
 
