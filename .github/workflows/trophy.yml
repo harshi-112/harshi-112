@@ -20,12 +20,9 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: harshi-112
-          output: trophy.svg
-          config_order: ASC
-          config_theme: dracula
-          config_no_background: true
-          config_no_frame: true
-          config_column: 6
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dracula
 
       - name: Push Trophy SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
