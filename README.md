@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Harshitha Dwaram!
 
-<h1 align="center">Hey 👋 What's Up?</h1>
-
 <p align="center">
   Software Engineer | Computer Science Graduate | AWS & AI Enthusiast
 </p>
