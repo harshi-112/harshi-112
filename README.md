@@ -90,16 +90,17 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 </p>
 
 <br>
-<h2 align="center">🐍 Contribution Graph</h2>
+
+<h2 align="center">👾 Contribution Graph</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake.svg" />
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </p>
 
