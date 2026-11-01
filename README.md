@@ -66,20 +66,18 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshi-112&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshi-112&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshi-112&show_icons=true&theme=dracula&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-112&layout=compact&theme=dracula&hide_border=true" height="165" />
+</p>
 
 <br>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshi-112&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-###
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshi-112&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 <h2 align="center">👾 Contribution Graph</h2>
 
 <picture>
