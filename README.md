@@ -1,6 +1,6 @@
- <h1 align="center">Hey 👋 What's Up?</h1>
+# 👋 Hi, I'm Harshitha Dwaram!
 
-<h3 align="center">I'm Harshitha Dwaram</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
   Software Engineer | Computer Science Graduate | AWS & AI Enthusiast
@@ -10,7 +10,7 @@
   Passionate about building practical applications, solving problems, and exploring technologies that make software more useful and accessible.
 </p>
 
-<br>
+###
 
 <h2 align="left">💫 About Me</h2>
 
@@ -21,28 +21,28 @@
 - 💬 Ask me about Java, Python, SQL, AWS, and Data Structures & Algorithms.
 - ⚡ Fun fact: I enjoy figuring out how things work behind the scenes!
 
-<br>
+###
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,mysql,aws,linux,git,github,html,css,js,flask,tensorflow" height="60" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,py,aws,c,cpp,mysql,linux,git,github,html,css,js,flask,tensorflow" height="60" alt="tech stack icons" />
 </div>
 
-<br>
+###
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/harshitha-dwaram-7b46b9300/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:harshi.dwaram@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
-<br>
+###
 
 <h2 align="left">🚀 Featured Projects</h2>
 
@@ -56,48 +56,48 @@ A web application designed to facilitate communication between sign language use
 
 **Technologies:** Python, Flask, TensorFlow, OpenCV, MediaPipe, JavaScript
 
-<br>
-
 <h3>🧠 Generating Synthetic Data with GANs</h3>
 
 Explored Generative Adversarial Networks for synthetic data generation and machine learning applications.
 
 **Technologies:** Python, Deep Learning, GANs
 
-<br>
+###
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=harshi-112&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-112&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com/?user=harshi-112&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=harshi-112&show_icons=true&theme=dracula&hide_border=false" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-112&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
 </div>
 
-<br>
+###
+
+<h2 align="center">👾 Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshi-112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/harshi-112/harshi-112/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
+
+###
 
 <h2 align="center">✨ Developer Quote</h2>
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="developer quote" />
 </div>
 
-<br>
-
-<hr>
+###
 
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshi-112&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
