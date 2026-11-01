@@ -20,7 +20,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: harshi-112
-          output_path: trophy.svg
+          output_path: github-profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
 
