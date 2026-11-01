@@ -83,16 +83,27 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshi-112&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=harshi-112&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
-<h2 align="center">👾 Contribution Graph</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<br>
+<h2 align="center">🐍 Contribution Graph</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/harshi-112/harshi-112/output/github-snake.svg" />
+  </picture>
+</p>
+
+<br>
 ###
 
 <div align="center">
