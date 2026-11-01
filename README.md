@@ -64,6 +64,7 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
 
 ###
 
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -77,50 +78,66 @@ Explored Generative Adversarial Networks for synthetic data generation and machi
   />
 </p>
 
+<br>
+
+<!-- Contribution Streak -->
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=harshi-112&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
+    height="150"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <br>
 
+<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img
-    src="https://trophy.ryglcloud.net/?username=harshi-112&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://raw.githubusercontent.com/harshi-112/harshi-112/trophy-output/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
 
 <br>
 
+<!-- Pacman Contribution Graph -->
 <h2 align="center">👾 Contribution Graph</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    />
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/harshi-112/harshi-112/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    />
   </picture>
 </p>
 
 <br>
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshi-112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/harshi-112/harshi-112/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
-
-
-
+<!-- Developer Quote -->
 <h2 align="center">✨ Developer Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="developer quote" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"
+    alt="Developer quote"
+  />
 </div>
 
-
+<br>
 
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
